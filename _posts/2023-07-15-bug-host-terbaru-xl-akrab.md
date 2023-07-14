@@ -35,8 +35,3 @@ mobilemaps.googleapis.com
 104.17.2.81
 104.17.3.81
 ```
-#### Tips dan Catatan Penting:
- - Penggunaan Bug Host untuk inject merupakan pelanggaran terhadap aturan penggunaan layanan dari XL Axiata dan dapat berisiko, termasuk penghentian layanan atau tindakan hukum.
- - Pastikan Anda selalu mematuhi aturan dan ketentuan penggunaan layanan dari penyedia layanan internet yang Anda gunakan.
- - Artikel ini hanya bertujuan untuk tujuan informasional dan edukatif, penulis tidak bertanggung jawab atas penggunaan yang tidak sah atau melanggar hukum terhadap layanan XL Axiata.
- - Sebelum menggunakan, sebaiknya Anda memahami risiko yang mungkin terkait dan bertanggung jawab atas penggunaan Anda.
