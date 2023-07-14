@@ -9,17 +9,14 @@ Baru-baru ini, pengguna XL Axiata heboh dengan adanya Bug Host Terbaru XL Axiata
 
 #### Untuk Mode SNI hanya TKP tertentu yang Work:
 
-```
 meet.google.com
 maps.gstatic.com
 teams.microsoft.com
 presence.teams.live.com
-mobilemaps.googleapis.com
-```
+mobilemaps.googleapis.co
 
 #### Mode Salto atau Bolak-balik menggunkan IP:
 
-```
 104.18.10.39
 104.18.11.39
 104.18.20.226
@@ -34,4 +31,4 @@ mobilemaps.googleapis.com
 104.26.5.10
 104.17.2.81
 104.17.3.81
-```
+
