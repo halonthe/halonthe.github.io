@@ -1,28 +1,36 @@
-## Blog Post Title From First Header
+## Bug Host Terbaru XL Axiata Paket Akrab 2023
 
 Sebuah celah keamanan yang ditemukan pada sistem jaringan XL Axiata. Celah ini memungkinkan pengguna untuk mengakses beberapa layanan secara gratis. Dalam hal ini, pengguna dapat memanfaatkan bug host untuk mengakses dua paket terbaru dari XL Axiata yaitu Paket Conference dan Paket Akrab.
 
 ---
 
-### This is a header
+### Selalu di Update
 
-#### Some T-SQL Code
+#### Mode SNI hanya TKP tertentu yang Work
 
 ```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
+meet.google.com
+maps.gstatic.com
+teams.microsoft.com
+presence.teams.live.com
+mobilemaps.googleapis.com
 ```
 
-#### Some PowerShell Code
+#### Mode Salto atau Bolak-balik menggunkan ip
 
 ```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
+104.18.10.39
+104.18.11.39
+104.18.20.226
+104.18.21.226
+104.18.24.243
+104.18.25.243
+104.18.211.56
+104.18.210.56
+104.18.24.243
+104.18.25.243
+104.26.4.10 
+104.26.5.10
+104.17.2.81
+104.17.3.81
 ```
