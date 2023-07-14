@@ -4,11 +4,9 @@ Sebuah celah keamanan yang ditemukan pada sistem jaringan XL Axiata. Celah ini m
 
 ---
 
-### Selalu di Update
-
 #### Mode SNI hanya TKP tertentu yang Work
 
-```tsql
+```
 meet.google.com
 maps.gstatic.com
 teams.microsoft.com
@@ -18,7 +16,7 @@ mobilemaps.googleapis.com
 
 #### Mode Salto atau Bolak-balik menggunkan ip
 
-```powershell
+```
 104.18.10.39
 104.18.11.39
 104.18.20.226
